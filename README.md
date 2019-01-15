@@ -1,7 +1,7 @@
 # CppPracticeExercises
 This will contain the code files in C++ for common programming exercises.
 
-# File :- arrayRemoveDuplicate.cpp #
+# File :- arrayRemoveDuplicate #
 
 QUESTION :- Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
@@ -22,3 +22,9 @@ Your function should return length = 5, with the first five elements of nums bei
 
 It doesn't matter what values are set beyond the returned length.
 
+# File :- maxSumOfContiguousElements #
+
+Question :  Given an array of numbers, find the maximum sum of any contiguous subarray of the array.
+   For example, given the array [34, -50, 42, 14, -5, 86], the maximum sum would be 137, since we would take elements 42, 14, -5, and 86.
+   Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not take any elements.
+   Do this in O(N) time.
